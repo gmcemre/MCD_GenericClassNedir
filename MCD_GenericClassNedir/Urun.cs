@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace MCD_GenericClassNedir
 {
-    class Program
+    class Urun
     {
-        static void Main(string[] args)
-        {
-           
-            Console.ReadLine();
-        }
     }
 }
